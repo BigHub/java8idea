@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a678e23d-cfde-49c7-bd5b-0271bc4e5ba8" name="Default" comment="" />
+    <list default="true" id="a678e23d-cfde-49c7-bd5b-0271bc4e5ba8" name="Default" comment="java8 init">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/java8idea/com/java8/helloidea/assertdemo/AssertDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/assertdemo/AssertDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/collections/MailList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/collections/SpliteratorDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/constructors/ConstructorRefDemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/exception/customexception/ExceptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/exception/customexception/MyException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/generics/Gen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/generics/GenDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/generics/NonGen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/generics/NonGenDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/generics/SimGen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/generics/TwoGen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/BRRead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/BRReadLines.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/CopyFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/CopyFile2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/PrintWriterDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/ShowFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/ShowFile2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/ShowFile3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/TinyEdit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/io/WriteDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/javaLib/ExecDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/javaLib/ExecDemoFini.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/javaLib/MemoryDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/javaLib/PBDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/keywords/InstanceOf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/lambda/ConstructorRefDemo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/lambda/LambdasAsArgumentsDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/lambda/MethodRefDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/lambda/UseFunctionInterfaceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/lambda/UseMethodRef.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/lambda/VarCapture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/IsAliveAndJoin/DemoJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/IsAliveAndJoin/NewThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/MainThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/deadlock/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/deadlock/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/deadlock/Deadlock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/interThreadsCommunication/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/interThreadsCommunication/PC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/interThreadsCommunication/Producer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/interThreadsCommunication/Q.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/suspendAndResume/NewThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/suspendAndResume/SuspendResume.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/synch/Caller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/synch/Callme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/synch/Synch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/threadCreate/ExtendThreadDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/threadCreate/NewThreadExtThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/threadCreate/NewThreadRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/multithread/threadCreate/ThreadDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/nativedemo/NativeDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java8idea/com/java8/helloidea/annotation/MarkerAnnotation.class" afterPath="$PROJECT_DIR$/out/production/java8idea/com/java8/helloidea/annotation/MarkerAnnotation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/java8idea/com/java8/helloidea/annotation/SingleFieldAnnotation.class" afterPath="$PROJECT_DIR$/out/production/java8idea/com/java8/helloidea/annotation/SingleFieldAnnotation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta.java" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta2.java" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta3.java" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/MyAnno.java" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/MyAnno.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/SingleFieldAnnotation.java" afterPath="$PROJECT_DIR$/src/com/java8/helloidea/annotation/SingleFieldAnnotation.java" />
+    </list>
     <ignored path="Java8Study.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,6 +80,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Java8Study$AssertDemo.coverage" NAME="AssertDemo Coverage Results" MODIFIED="1467003704624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.java8.helloidea.assertdemo.*</FILTER>
+    </SUITE>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -23,21 +94,105 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Method.java" pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <file leaf-file-name="PBDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/javaLib/PBDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+            <state relative-caret-position="209">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Executable.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/reflect/Executable.java">
+      <file leaf-file-name="ExecDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/javaLib/ExecDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+            <state relative-caret-position="247">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExecDemoFini.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/javaLib/ExecDemoFini.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemoryDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/javaLib/MemoryDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UseFunctionInterfaceDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/UseFunctionInterfaceDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UseMethodRef.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/UseMethodRef.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#341#351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodRefDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/MethodRefDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Caller.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/multithread/synch/Caller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstructorRefDemo3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/ConstructorRefDemo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VarCapture.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/VarCapture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -65,10 +220,31 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/java8/helloidea/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/repeatanno/RepeatAnno.java" />
-        <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/SingleFieldAnnotation.java" />
         <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/typeannodemo/TypeAnnoDemo.java" />
         <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/What.java" />
         <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/MarkerAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/SingleFieldAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/MyAnno.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta3.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta2.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/assertdemo/AssertDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/collections/MailList.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/exception/customexception/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/generics/Gen.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/io/BRRead.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/keywords/InstanceOf.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/multithread/deadlock/A.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/nativedemo/NativeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/collections/SpliteratorDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/constructors/ConstructorRefDemo3.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/javaLib/MemoryDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/javaLib/PBDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/javaLib/ExecDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/lambda/UseMethodRef.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/lambda/MethodRefDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/lambda/ConstructorRefDemo3.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/helloidea/lambda/VarCapture.java" />
       </list>
     </option>
   </component>
@@ -83,6 +259,25 @@
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1053" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -139,20 +334,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java8Study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java8idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.java8.helloidea.annotation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="ProjectPane">
@@ -162,7 +343,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -174,20 +355,22 @@
       <recent name="com.java8.helloidea" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/java8/helloidea/annotation" />
-      <recent name="$PROJECT_DIR$/src/com/java8/helloidea/annotation/typeannodemo" />
-      <recent name="$PROJECT_DIR$/src/com/java8/helloidea/annotation/repeatanno" />
+      <recent name="$PROJECT_DIR$/src/com/java8/helloidea" />
+      <recent name="$PROJECT_DIR$/src/com/java8/helloidea/constructors" />
+      <recent name="$PROJECT_DIR$/src/com/java8/helloidea/collections" />
+      <recent name="$PROJECT_DIR$/src/com/java8/helloidea/multithread" />
+      <recent name="$PROJECT_DIR$/src/com/java8/helloidea/keywords" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MarkerAnnotation">
-    <configuration default="false" name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ConstructorRefDemo3">
+    <configuration default="false" name="GenDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.java8.helloidea.*" />
+          <option name="PATTERN" value="com.java8.helloidea.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java8.helloidea.HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="com.java8.helloidea.generics.GenDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -200,14 +383,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TypeAnnoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ExecDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.java8.helloidea.annotation.typeannodemo.*" />
+          <option name="PATTERN" value="com.java8.helloidea.javaLib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java8.helloidea.annotation.typeannodemo.TypeAnnoDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.java8.helloidea.javaLib.ExecDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -220,14 +403,54 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MarkerAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MemoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.java8.helloidea.annotation.*" />
+          <option name="PATTERN" value="com.java8.helloidea.javaLib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java8.helloidea.annotation.MarkerAnnotation" />
+      <option name="MAIN_CLASS_NAME" value="com.java8.helloidea.javaLib.MemoryDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java8idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UseMethodRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.java8.helloidea.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.java8.helloidea.lambda.UseMethodRef" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java8idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConstructorRefDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.java8.helloidea.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.java8.helloidea.lambda.ConstructorRefDemo3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -641,16 +864,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TypeAnnoDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MarkerAnnotation" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.GenDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ExecDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MemoryDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UseMethodRef" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ConstructorRefDemo3" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.MarkerAnnotation" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TypeAnnoDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ConstructorRefDemo3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UseMethodRef" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MemoryDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ExecDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GenDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -666,12 +893,12 @@
       <updated>1466993299571</updated>
       <workItem from="1466993302316" duration="689000" />
       <workItem from="1466994305819" duration="1681000" />
-      <workItem from="1466996464738" duration="2206000" />
+      <workItem from="1466996464738" duration="5601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4576000" />
+    <option name="totallyTimeSpent" value="7971000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -688,33 +915,38 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16134185" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23748669" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41727367" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java8 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="java8 init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -725,54 +957,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="143" column="5" selection-start-line="143" selection-start-column="5" selection-end-line="143" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/javax/management/relation/RoleList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/fxml/builder/ProxyBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/istack/internal/FinalArrayList.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
@@ -813,58 +997,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/repeatanno/RepeatAnno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/annotation/Retention.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/SingleFieldAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/What.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -890,18 +1026,8 @@
         <state relative-caret-position="276">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="18" />
           <folding>
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/MyAnno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#708#709#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -911,8 +1037,8 @@
         <state relative-caret-position="140">
           <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
           <folding>
-            <element signature="e#2542#2543#0" expanded="true" />
-            <element signature="e#2566#2567#0" expanded="true" />
+            <element signature="e#2542#2543#0" expanded="false" />
+            <element signature="e#2566#2567#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -925,18 +1051,347 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/SingleFieldAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/reflect/Executable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="0">
           <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/repeatanno/RepeatAnno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        <state relative-caret-position="171">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/MyAnno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/What.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/annotation/Meta3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/assertdemo/AssertDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/collections/MailList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/exception/customexception/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/exception/customexception/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/generics/Gen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/generics/NonGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/generics/TwoGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/generics/SimGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/generics/NonGenDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/generics/GenDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/io/BRRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/io/BRReadLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/io/CopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/keywords/InstanceOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/multithread/deadlock/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/multithread/IsAliveAndJoin/DemoJoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/multithread/IsAliveAndJoin/NewThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/nativedemo/NativeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/collections/SpliteratorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/constructors/ConstructorRefDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/javaLib/ExecDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/javaLib/ExecDemoFini.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/javaLib/PBDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/javaLib/MemoryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/UseFunctionInterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/UseMethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#341#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/ConstructorRefDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/VarCapture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/lambda/MethodRefDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/helloidea/multithread/synch/Caller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
         </state>
       </provider>
