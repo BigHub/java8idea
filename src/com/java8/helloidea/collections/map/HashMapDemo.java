@@ -10,6 +10,7 @@ import java.util.Set;
  *
  */
 public class HashMapDemo {
+
     public static void main(String args[]) {
 
         // Create a hash map.
@@ -21,6 +22,7 @@ public class HashMapDemo {
         hm.put("Jane Baker", 1378.00);
         hm.put("Tod Hall", 99.22);
         hm.put("Ralph Smith", -19.08);
+
 
         // Get a set of the entries.
         Set<Map.Entry<String, Double>> set = hm.entrySet();
