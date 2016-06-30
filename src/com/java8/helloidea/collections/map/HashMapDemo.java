@@ -13,6 +13,7 @@ public class HashMapDemo {
 
     public static void main(String args[]) {
 
+
         // Create a hash map.
         HashMap<String, Double> hm = new HashMap<>();
 
@@ -21,7 +22,7 @@ public class HashMapDemo {
         hm.put("Tom Smith", 123.22);
         hm.put("Jane Baker", 1378.00);
         hm.put("Tod Hall", 99.22);
-        hm.put("Ralph Smith", -19.08);
+        hm.put("Ralph Smith", -19.09);
 
 
         // Get a set of the entries.
@@ -33,6 +34,8 @@ public class HashMapDemo {
             System.out.println(me.getValue());
         }
 
+        System.out.println();
+        System.out.println();
         System.out.println();
 
         // Deposit 1000 into John Doe's account.
