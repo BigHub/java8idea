@@ -2,10 +2,10 @@ package com.java8.helloidea.assertdemo;
 
 //Demonstrate assert. 
 class AssertDemo {
-    static int val = 3;
+    private static int val = 3;
 
     // Return an integer.
-    static int getnum() {
+    private static int getnum() {
         return val--;
     }
 
