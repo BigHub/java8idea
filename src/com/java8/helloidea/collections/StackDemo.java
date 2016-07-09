@@ -1,11 +1,12 @@
 package com.java8.helloidea.collections;
 
+import java.util.ArrayDeque;
 import java.util.EmptyStackException;
 import java.util.Stack;
 
 /**
  * Created by jianwei on 16/7/9.
- *
+ *  **** 注意:尽管不反对使用Stack,但是ArrayDeque是更好的选择.****
  */
 public class StackDemo {
     private static void showpush(Stack<Integer> st, int a) {
@@ -22,6 +23,8 @@ public class StackDemo {
     }
 
     public static void main(String args[]) {
+//        注意:尽管不反对使用Stack,但是ArrayDeque是更好的选择.
+        ArrayDeque<Integer> de = new ArrayDeque<>();
         Stack<Integer> st = new Stack<>();
 
         System.out.println("stack: " + st);
