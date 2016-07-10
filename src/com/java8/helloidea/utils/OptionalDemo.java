@@ -21,5 +21,7 @@ public class OptionalDemo {
 
         String defStr = noVal.orElse("Default String");
         System.out.println(defStr);
+
+        System.out.println(hasVal.orElse("Hello world"));
     }
 }
