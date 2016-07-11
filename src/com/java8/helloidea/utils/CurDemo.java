@@ -16,5 +16,10 @@ public class CurDemo {
         System.out.println("Symbol: " + c.getSymbol());
         System.out.println("Default fractional digits: " +
                 c.getDefaultFractionDigits());
+
+        for (Currency currency : c.getAvailableCurrencies()) {
+            System.out.println(currency.getSymbol());
+        }
+        ;
     }
 }
