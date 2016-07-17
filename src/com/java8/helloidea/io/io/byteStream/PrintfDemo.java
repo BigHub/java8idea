@@ -1,4 +1,4 @@
-package com.java8.helloidea.io.io;
+package com.java8.helloidea.io.io.byteStream;
 
 /**
  * Demonstrate printf().
